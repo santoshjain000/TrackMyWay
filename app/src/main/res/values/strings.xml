@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TrackMyWay</string>
-    <string name="google_maps_key">AIzaSyBuE9-8zZN3bBCYSV8Co23eX0TXj1wsVGQ</string>
+    <string name="google_maps_key">Google_map_key</string>
 </resources>
